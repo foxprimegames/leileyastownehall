@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Guild Rules
 
-You can use the [editor on GitHub](https://github.com/foxprimegames/leileyastownehall/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Please join the guild's Discord
+The guild has a discord chat at https://discord.gg/uJMA6U3 .  Please join that to be able to see guild announcements, and to be able to notify the guild officers if needed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Be kind to other members.
+If someone does something that you do not like, please try to let officers know of it. Anyone who becomes abusive to other members will be given a warning but upon a second offense will be kicked from the guild.
 
-### Markdown
+### If you need help, feel free to ask anyone about it.
+This includes needing items that you cannot seem to get on your own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Please invest in the guild's current project.
+There will always be one building highlighted in the city.  This is the guild's current investment project.  Please help invest in that building as much as possible.
 
-```markdown
-Syntax highlighted code block
+### Please let us know if you're not going to be active.
+Members who don't connect to the game for 7 days will be kicked from the guild.
+Please notify one of the guild officers if you're going to be inactive and for how long.
 
-# Header 1
-## Header 2
-### Header 3
+Any members who suspect that they will be gone for any amount of time, please let one of the officers know so that you are not booted from the guild. The deadline for notifying anyone in the guild is 7 days. If no one knows anything about your disappearance and you are missing for more than 7 days, you will be booted, but you have the option to rejoin.
 
-- Bulleted
-- List
+Rule edit: After the second accept, you WILL be expected to notify someone of your absence if you do not... you will be booted every time you rejoin until there isn't a slot open to allow you to.
 
-1. Numbered
-2. List
+### Please do bounties
+Finishing bounties helps the guild - points gained from bounties allow the guild to give crafting bonuses, resource generation bonuses, etc.
 
-**Bold** and _Italic_ and `Code` text
+Please finish as many bounties as you can each week to help the guild help everyone :)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foxprimegames/leileyastownehall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Rejoining after being kicked
+If you have been kicked from the guild for any reason, you may rejoin once.
+If you are kicked a second time, you will be placed on the permanent-ban list.  At that point, if you rejoin the guild again, you will be kicked without notice.
