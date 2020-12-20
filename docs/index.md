@@ -16,10 +16,6 @@ There will always be one building highlighted in the city.  This is the guild's 
 Members who don't connect to the game for 7 days will be kicked from the guild.
 Please notify one of the guild officers if you're going to be inactive and for how long.
 
-Any members who suspect that they will be gone for any amount of time, please let one of the officers know so that you are not booted from the guild. The deadline for notifying anyone in the guild is 7 days. If no one knows anything about your disappearance and you are missing for more than 7 days, you will be booted, but you have the option to rejoin.
-
-Rule edit: After the second accept, you WILL be expected to notify someone of your absence if you do not... you will be booted every time you rejoin until there isn't a slot open to allow you to.
-
 ### Please do bounties
 Finishing bounties helps the guild - points gained from bounties allow the guild to give crafting bonuses, resource generation bonuses, etc.
 
