@@ -25,4 +25,5 @@ Please finish as many bounties as you can each week to help the guild help every
 
 ## 6. Rejoining after being kicked
 If you have been kicked from the guild for any reason, you may rejoin once.
+
 If you are kicked a second time, you will be placed on the permanent-ban list.  At that point, if you rejoin the guild again, you will be kicked without notice.
