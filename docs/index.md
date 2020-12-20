@@ -2,7 +2,7 @@
 title: Guild Rules
 ---
 ## 0. Please join the guild's Discord
-The guild has a discord chat at [](https://discord.gg/uJMA6U3).  Please join that to be able to see guild announcements, and to be able to notify the guild officers if needed.
+The guild has a discord chat at [https://discord.gg/uJMA6U3](https://discord.gg/uJMA6U3).  Please join that to be able to see guild announcements, and to be able to notify the guild officers if needed.
 
 ## 1. Be kind to other members.
 If someone does something that you do not like, please try to let officers know of it. Anyone who becomes abusive to other members will be given a warning but upon a second offense will be kicked from the guild.
